@@ -1,0 +1,40 @@
+Templete:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2586
+  type: EMERALD
+M16:
+  skin:
+    default:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: DIAMOND_HOE
+G36:
+  skin:
+    default:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: IRON_HOE
+AK47:
+  skin:
+    default:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: WOODEN_HOE
+G17:
+  skin:
+    default:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: IRON_AXE
+knife:
+  skin:
+    default:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: IRON_SWORD
+M67:
+  skin:
+    default:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: APPLE

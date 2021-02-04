@@ -1,0 +1,11 @@
+name: PseudoGunVary
+version: 0.0.1
+main: online.gun.pseudo.PseudoServerMain
+api-version: 1.16
+
+commands:
+   pgs:
+      description: This is a command.
+      usage: /<command>
+      permission: psg.command
+      permission-message: You don't have <permission>
